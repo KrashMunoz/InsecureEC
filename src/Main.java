@@ -45,7 +45,6 @@ public class Main {
             teamIssa = teamIssa + 1;
         } else {
             teamLawrence = teamLawrence + 1;
-            teamIssa = teamIssa + 1;
         }
 
         System.out.println("Did his joblessness make him depressed, and sap his initiative and his " +
